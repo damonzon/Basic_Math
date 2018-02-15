@@ -1,4 +1,6 @@
 # Basic_Math
 A shiny app for basic addition, subtraction and mutiplication.
-h1(this is big)
+Khan Academy videos with interactive choosing of numbers.
+
+
 
